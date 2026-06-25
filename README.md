@@ -9,7 +9,7 @@ The model provides a robust analysis of financial performance under varying oper
 
 1. Scenario Planning
 The Scenario Summary allows users to stress-test the portfolio against positive, realistic, and pessimistic outlooks. By adjusting variables like rent levels, renovation costs, and duration, the model calculates the necessary external capital injection required to maintain solvency.
-![Scenario Summary](Plot 1.png)
+![Scenario Summary](Plot2.png)
 
 2. Liquidity Forecasting
 The liquidity budget visualization tracks the portfolio’s cash position over a 12-month horizon. It clearly differentiates between the baseline liquidity and the capital injections required to bridge projected shortfalls during the renovation phase.
